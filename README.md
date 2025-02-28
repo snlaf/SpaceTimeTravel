@@ -1,1 +1,2 @@
-# SpaceTimeTravel
+cd SpaceTravelSimulator.Tests
+dotnet test
