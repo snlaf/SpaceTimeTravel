@@ -1,2 +1,2 @@
-cd SpaceTravelSimulator.Tests
+cd SpaceTravelSimulator.Tests<br>
 dotnet test
